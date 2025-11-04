@@ -1,0 +1,5 @@
+{
+  "name": "Fashion Techpack Generator",
+  "description": "An interactive web application to create detailed fashion tech packs. Users can input product details, upload images, specify sewing instructions, measurements, and order quantities. The final tech pack can be exported as a multi-page A3 PDF. It also includes an AI-powered image editor using the Gemini API to modify product photos with text prompts.",
+  "requestFramePermissions": []
+}
